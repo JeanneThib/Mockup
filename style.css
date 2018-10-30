@@ -1,0 +1,18 @@
+*{
+    font-family: "Myriad Pro";
+    }
+    .footer{
+    background-color: #666666;
+    }
+    .image{
+    margin: 1%;
+    }
+    .color{
+    color: #FFFFFF;
+    }
+    .border-danger{
+    color: #666666 !important;
+    }
+    .border-bottom{
+    border-bottom: 2px solid #666666 !important;
+    }
