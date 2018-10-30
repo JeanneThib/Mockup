@@ -57,8 +57,7 @@ button{
 
     background-image: url(media/alexander-redl-185764-unsplash.jpg);
     background-repeat: no-repeat;
-    background-size: 100% auto;
-    height: 100em;
+    background-size: 100% 100%;
     width: 100%;
     background-position: center;
 
@@ -132,11 +131,11 @@ p {
 }
 
 #orientation{
-transform: translate(6%, -92%) ;
+transform: translate(6%, -165%) ;
 }
 
 #orientation2{
-    transform: translate(6%, 211%) ;
+    transform: translate(6%, 138%) ;
 }
 
 .pt-4{
@@ -188,11 +187,11 @@ transform: translate(6%, 94%) ;
 }
 
 #orientation2{
-    transform: translate(6%, 113%) ;
+    transform: translate(6%, 291%) ;
 }
 .taille{
-    width: 347px !important;
-    height: 100px!important;
+    width: 230px !important;
+    height: 63px!important;
 }
 }
 
