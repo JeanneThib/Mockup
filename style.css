@@ -131,11 +131,11 @@ p {
 }
 
 #orientation{
-transform: translate(6%, -92%) ;
+transform: translate(6%, -165%) ;
 }
 
 #orientation2{
-    transform: translate(6%, 211%) ;
+    transform: translate(6%, 138%) ;
 }
 
 .pt-4{
@@ -187,11 +187,11 @@ transform: translate(6%, 94%) ;
 }
 
 #orientation2{
-    transform: translate(6%, 113%) ;
+    transform: translate(6%, 291%) ;
 }
 .taille{
-    width: 347px !important;
-    height: 100px!important;
+    width: 230px !important;
+    height: 63px!important;
 }
 .pourSportif1 {
     font-size: 2rem;
