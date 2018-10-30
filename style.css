@@ -193,5 +193,20 @@ transform: translate(6%, 94%) ;
     width: 230px !important;
     height: 63px!important;
 }
+.pourSportif1 {
+    font-size: 2rem;
+    padding-left: 2% !important;
+    padding-top: 2% !important;
+}
+.pourSportif2 {
+    font-size: 2rem;
+    padding-left: 2% !important;
+    padding-top: 2% !important;
+}
+.pourSportif3 {
+    font-size: 2rem;
+    padding-left: 2% !important;
+    padding-top: 2% !important;
+}
 }
 
