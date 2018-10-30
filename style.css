@@ -1,19 +1,26 @@
-*{
+* {
     font-family: "Myriad Pro";
-    }
-    .footer{
+}
+
+.footer {
     background-color: #666666;
-    }
-    .image{
+    position: absolute;
+
+}
+
+.image {
     margin: 1%;
-    }
-    .color{
+}
+
+.color {
     color: #FFFFFF;
-    }
-    .border-danger{
+}
+
+.border-danger {
     color: #666666 !important;
-    }
-    .border-bottom{
+}
+
+.border-bottom {
     border-bottom: 2px solid #666666 !important;
     }
     .w-25{
@@ -22,3 +29,50 @@
     .titre{
         padding-top: 0.5rem !important;
     }
+}
+
+.w-25 {
+    width: 33% !important;
+}
+
+.align {
+
+    background-image: url(media/alexander-redl-185764-unsplash.jpg);
+    background-size: cover;
+    height: 100em;
+    width: 100%;
+    background-position: center;
+
+}
+
+.pourSportif {
+    color: #cc3333;
+    font-size: 9rem;
+    padding: 0;
+    margin: 0;
+}
+
+p {
+    margin-bottom: 0rem !important;
+    padding: 0rem !important;
+}
+
+.mb-2 {
+    margin-bottom: -1.5rem !important;
+}
+
+.pl-5 {
+    padding-left: 26rem !important;
+}
+
+.pl-4 {
+    padding-left: 14.5rem !important;
+}
+
+.pt-5 {
+    padding-top: 6rem !important;
+}
+
+.pl-1 {
+    padding-left: 2.25rem !important;
+}
