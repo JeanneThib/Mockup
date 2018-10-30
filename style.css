@@ -69,10 +69,28 @@ p {
 .pl-1 {
     padding-left: 2.25rem !important;
 }
-    }
-    .w-25{
-        width: 33% !important;
-    }
-    .titre{
-        padding-top: 0.5rem !important;
-    }
+
+
+.titre {
+    padding-top: 0.5rem !important;
+}
+.orientation{
+    transform: rotate(-41deg);
+  
+}
+
+.orientation2{
+    transform: rotate(36deg);
+}
+
+#orientation{
+transform: translate(6%, -92%) ;
+}
+
+#orientation2{
+    transform: translate(6%, 211%) ;
+}
+
+.pt-4{
+    padding-top:3.5rem !important;
+}
