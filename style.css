@@ -44,6 +44,10 @@ button{
 
 .w-25{
         width: 33% !important;
+    }
+    .titre{
+        padding-top: 0.5rem !important;
+    }
 }
 .titre{
         padding-top: 0.5rem !important;
@@ -90,6 +94,7 @@ p {
 .pl-1 {
     padding-left: 2.25rem !important;
 }
+
 
 #mybtn {
     display: none; /* Hidden by default */
@@ -159,13 +164,14 @@ transform: translate(6%, -92%) ;
 h1{
    display: none;
 }
+.w-25 {
+    width: 96% !important;
+}
 
 .logo{
     display: flex !important;
     justify-content: center !important;
     padding-left:20% ;
-    
-    
 }
 }
 
