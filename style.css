@@ -2,22 +2,20 @@
 .form{
     background-image: url(media/trianglify.png)
 }
-.form2{
-    width: 36%;
-    
 
-}
 h2{
 color: gray;
 
 }
 button{
-    width: 30%;
+    width: 20%;
     background: grey;
 }
 .btn{
     background-color: grey;
+    border: none;
 }
+
 
 * {
     font-family: "Myriad Pro";
@@ -44,16 +42,12 @@ button{
 .border-bottom {
     border-bottom: 2px solid #666666 !important;
     }
-    .w-25{
-        width: 33% !important;
-    }
-    .titre{
-        padding-top: 0.5rem !important;
-    }
-}
 
-.w-25 {
-    width: 33% !important;
+.w-25{
+        width: 33% !important;
+}
+.titre{
+        padding-top: 0.5rem !important;
 }
 
 .align {
@@ -115,7 +109,11 @@ p {
     background-size: cover; 
     background-color: transparent;
 }
-
+.form-control1{
+    height: 4rem;
+    width: 100%;
+    border-radius: 2%;
+}
 .titre {
     padding-top: 0.5rem !important;
 }
