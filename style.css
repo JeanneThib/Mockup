@@ -1,3 +1,24 @@
+/* FORMULAIRE */
+.form{
+    background-image: url(media/trianglify.png)
+}
+.form2{
+    width: 36%;
+    
+
+}
+h2{
+color: gray;
+
+}
+button{
+    width: 30%;
+    background: grey;
+}
+.btn{
+    background-color: grey;
+}
+
 * {
     font-family: "Myriad Pro";
 }
@@ -76,6 +97,7 @@ p {
 .pl-1 {
     padding-left: 2.25rem !important;
 }
+
 #mybtn {
     display: none; /* Hidden by default */
     position: fixed; /* Fixed/sticky position */
@@ -94,3 +116,26 @@ p {
     background-color: transparent;
 }
 
+.titre {
+    padding-top: 0.5rem !important;
+}
+.orientation{
+    transform: rotate(-41deg);
+  
+}
+
+.orientation2{
+    transform: rotate(36deg);
+}
+
+#orientation{
+transform: translate(6%, -92%) ;
+}
+
+#orientation2{
+    transform: translate(6%, 211%) ;
+}
+
+.pt-4{
+    padding-top:3.5rem !important;
+}
