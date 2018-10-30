@@ -115,3 +115,5 @@ transform: translate(6%, -92%) ;
 .pt-4{
     padding-top:3.5rem !important;
 }
+
+@media (max-width: 575px) and (orientation:portrait){ 
