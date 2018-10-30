@@ -56,7 +56,8 @@ button{
 .align {
 
     background-image: url(media/alexander-redl-185764-unsplash.jpg);
-    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
     height: 100em;
     width: 100%;
     background-position: center;
