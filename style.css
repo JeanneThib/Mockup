@@ -1,3 +1,24 @@
+/* FORMULAIRE */
+.form{
+    background-image: url(trianglify.png)
+}
+.form2{
+    width: 36%;
+    
+
+}
+h2{
+color: gray;
+
+}
+button{
+    width: 30%;
+    background: grey;
+}
+.btn{
+    background-color: grey;
+}
+
 * {
     font-family: "Myriad Pro";
 }
