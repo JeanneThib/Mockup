@@ -57,8 +57,7 @@ button{
 
     background-image: url(media/alexander-redl-185764-unsplash.jpg);
     background-repeat: no-repeat;
-    background-size: 100% auto;
-    height: 100em;
+    background-size: 100% 100%;
     width: 100%;
     background-position: center;
 
@@ -193,6 +192,21 @@ transform: translate(6%, 94%) ;
 .taille{
     width: 347px !important;
     height: 100px!important;
+}
+.pourSportif1 {
+    font-size: 2rem;
+    padding-left: 2% !important;
+    padding-top: 2% !important;
+}
+.pourSportif2 {
+    font-size: 2rem;
+    padding-left: 2% !important;
+    padding-top: 2% !important;
+}
+.pourSportif3 {
+    font-size: 2rem;
+    padding-left: 2% !important;
+    padding-top: 2% !important;
 }
 }
 
